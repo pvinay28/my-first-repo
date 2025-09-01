@@ -1,0 +1,3 @@
+Name: Pandiri Vinay
+Course: Bsc Data Science 
+One thing I learned about GitHub is how essential it is for managing collaborative coding projects. I learned how to fork repositories to contribute to other projects, use pull requests to suggest changes, and manage issues to track bugs and feature requests. GitHub Actions introduced me to automation in workflows, and I also explored how to use the GitHub web interface to review code, leave comments, and manage project boards. Understanding how Git and GitHub work together helped me realize the importance of keeping a clean commit history and regularly syncing my local changes with the remote repository.
